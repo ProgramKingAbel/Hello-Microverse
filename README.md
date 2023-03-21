@@ -67,6 +67,12 @@ Github Account:
 ```sh
   https://github.com/
 ```
+Npm installed: 
+```sh
+  https://nodejs.org/en/download
+```
+
+A LiveServer/ Localhost/ VS Code Live Server Extension
 
 ### Setup
 
