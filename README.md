@@ -6,8 +6,6 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -26,7 +24,7 @@
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
 
-**[Hello-Microverse]** is my first project at Microverse at Microverse, on Module 1 Week One and I have enjoyed it.
+**[Hello-Microverse]** is my first project at Microverse at Microverse, on Module 1 Week One implemeted using HTML and CSS.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -50,8 +48,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -74,13 +70,15 @@ Npm installed:
 
 A LiveServer/ Localhost/ VS Code Live Server Extension
 
+A working and up to date Browser
+
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
   git clone command
-
+```
 
 Install this project with:
 
@@ -122,7 +120,7 @@ To test optimization:
 
 You can deploy this project using:
 
-Localhost on your computer through:
+Localhost on your computer through a local Server:
 
 
 ```sh
@@ -134,7 +132,6 @@ Localhost on your computer through:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Abel Morara**
 
@@ -174,9 +171,8 @@ If you like this project follow me on Github and give it a star to motivate buil
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank the Microverse Team, My stand up team and coding partners who we work tirelessly to make it happen.
+I would like to thank the Microverse Community, My stand up team and coding partners who we work tirelessly to make it possible.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
